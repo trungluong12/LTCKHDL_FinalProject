@@ -7,3 +7,8 @@
 # Member Information:
 1. Phạm Trần Trung Lượng - 20127560 - Github: [trungluong12](https://github.com/trungluong12)
 2. Phan Xuân Nam - 20127247 - Github: [numkiki](https://github.com/numkiki)
+# Info about our Repository
+1. ./data/: folder for data
+2. Category.csv: for classification
+2.1. RepairCateogry.csv: fix categories
+2.2.WrongCategory.csv: filter out wrong categories
