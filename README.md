@@ -10,7 +10,7 @@
 # Info about our Repository
 1. **./data/**: folder for dataset
 2. **Category.csv**: for grouping categories into a more generic term
-3. **RepairCateogry.csv**: fix the wrong categories 
-4. **WrongCategory.csv**: filter out wrong categories
+3. **RepairCateogry**: fix the wrong categories 
+4. **WrongCategory**: filter out wrong categories
 5. **Final.ipynb**: our notebook for the Final test
 6. **.gitignore**: ignore unnecessary files
